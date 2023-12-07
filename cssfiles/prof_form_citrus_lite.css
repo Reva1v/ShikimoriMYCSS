@@ -12,11 +12,17 @@
 .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar.manga {
     margin-right: 7%;
     width: 33%;
+    border-radius: 8px;
+    box-shadow: rgba(7, 7, 6, 5.3) 0px 0px 17px 7px;
+    background: rgba(31, 55, 49, 0.85);
 }
 .p-profiles .profile-head .c-info .c-lists-info .b-stats_bar.anime {
     margin-left: 7%;
     width: 33%;
     margin-right: 20%;
+    border-radius: 8px;
+    box-shadow: rgba(7, 7, 6, 5.3) 0px 0px 17px 7px;
+    background: rgba(31, 55, 49, 0.85);
 }
 
 .cc-2a > .c-column {
@@ -49,7 +55,6 @@ header.head p.notice span {
 body#profiles_show .l-page {
     margin-top: 400px;
     padding: 0 !important;
-    border-radius: 0px 0px 8px 8px;
 }
 body#profiles_show .profile-head {
     top: -320px;
